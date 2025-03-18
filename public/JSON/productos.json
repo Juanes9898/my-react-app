@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "1984",
+        "precio": 10.99
+    },
+    {
+        "id": 2,
+        "nombre": "To Kill a Mockingbird",
+        "precio": 15.49
+    },
+    {
+        "id": 3,
+        "nombre": "The Great Gatsby",
+        "precio": 7.99
+    },
+    {
+        "id": 4,
+        "nombre": "One Hundred Years of Solitude",
+        "precio": 12.99
+    },
+    {
+        "id": 5,
+        "nombre": "Moby Dick",
+        "precio": 9.49
+    },
+    {
+        "id": 6,
+        "nombre": "War and Peace",
+        "precio": 14.99
+    },
+    {
+        "id": 7,
+        "nombre": "Pride and Prejudice",
+        "precio": 8.99
+    },
+    {
+        "id": 8,
+        "nombre": "The Catcher in the Rye",
+        "precio": 11.49
+    },
+    {
+        "id": 9,
+        "nombre": "The Hobbit",
+        "precio": 13.99
+    },
+    {
+        "id": 10,
+        "nombre": "Crime and Punishment",
+        "precio": 6.99
+    }
+]
